@@ -14,8 +14,8 @@ El objetivo fue crear un dashboard interactivo que permita **identificar tendenc
 ---
 
 ## 📌 KPIs principales
-- **Ventas Totales ($)**  
-- **Ticket Promedio ($)**  
+- **Ventas Totales **  
+- **Ticket Promedio **  
 - **Número de Facturas**  
 - **Rating Promedio de Clientes**  
 
