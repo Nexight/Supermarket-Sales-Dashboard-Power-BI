@@ -44,5 +44,5 @@ El objetivo fue crear un dashboard interactivo que permita **identificar tendenc
 ---
 
 ## 👨‍💻 Autor
-Proyecto realizado por **[Nicolás Quinteros]**, en el marco de mi portfolio como analista de datos.  
+Proyecto realizado por **Nicolás Quinteros**, en el marco de mi portfolio como analista de datos.  
 Podés contactarme en [LinkedIn](https://www.linkedin.com/in/nicolásbrianquinteros) 🚀
