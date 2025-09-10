@@ -1,6 +1,6 @@
 # 📊 Supermarket Sales Dashboard – Power BI
 
-Este proyecto consiste en un análisis de ventas de supermercado utilizando Power BI, basado en el dataset público **[Supermarket Sales - Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)**.  
+Este proyecto consiste en un análisis de ventas de supermercado utilizando Power BI, basado en el dataset público **[Supermarket Sales - Kaggle](https://(https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales))**.  
 
 El objetivo fue crear un dashboard interactivo que permita **identificar tendencias, evaluar KPIs de negocio y analizar el comportamiento de los clientes**.
 
